@@ -137,7 +137,7 @@ class _MainPage extends State<MainPage> {
                   ? const Text("Discoverable")
                   : Text(
                       "Discoverable for ${_discoverableTimeoutSecondsLeft}s"),
-              subtitle: const Text("on/off"),
+              /*subtitle: const Text("on/off"),*/
               trailing: Row(
                 mainAxisSize: MainAxisSize.min,
                 children: [
