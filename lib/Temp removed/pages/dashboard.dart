@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:wifi_password_manager/bloc.navigationbloc/navigationbloc.dart';
+/*import 'package:flutter/material.dart';
+//import 'package:wifi_password_manager/bloc.navigationbloc/navigationbloc.dart';
 
 class HomePage extends StatelessWidget with NavigationStates {
   @override
@@ -9,4 +9,4 @@ class HomePage extends StatelessWidget with NavigationStates {
       ),
     );
   }
-}
+}*/

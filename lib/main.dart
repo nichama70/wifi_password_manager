@@ -1,19 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_blue/flutter_blue.dart';
-import 'test/Sidebar/Sidebarlayout.dart';
 
-void main() => runApp(MyApp());
+import './MainPage.dart';
 
-class MyApp extends StatelessWidget {
+void main() => runApp(new ExampleApplication());
+
+class ExampleApplication extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-          scaffoldBackgroundColor: Colors.white,
-          primaryColor: Colors.white
-      ),
-      home: SideBarLayout(),
-    );
+    return MaterialApp(home: MainPage());
   }
 }

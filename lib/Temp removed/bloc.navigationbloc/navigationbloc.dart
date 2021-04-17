@@ -1,4 +1,5 @@
-import 'package:bloc/bloc.dart';
+/*import 'package:bloc/bloc.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:wifi_password_manager/test/pages/Settings.dart';
 import 'package:wifi_password_manager/test/pages/dashboard.dart';
 import 'package:wifi_password_manager/test/pages/networksettings.dart';
@@ -31,4 +32,4 @@ class NavigationBloc extends Bloc<NavigationEvents, NavigationStates> {
     }
   }
 
-}
+}*/

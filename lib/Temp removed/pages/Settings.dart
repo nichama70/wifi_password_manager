@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 import 'package:wifi_password_manager/bloc.navigationbloc/navigationbloc.dart';
 
 class Settings extends StatelessWidget with NavigationStates{
@@ -9,4 +9,4 @@ class Settings extends StatelessWidget with NavigationStates{
       ),
     );
   }
-}
+}*/
